@@ -1,0 +1,9 @@
+{"alternatives": 
+	{
+	"SSD 2XX": ["SSD 275GB", "SSD 240GB", "SSD 256GB"], 
+	"PC4 16G": ["RAM 16Gb PC4-2400", 
+	"RAM 16Gb PC4-2133", "RAM 16GB PC4-2400 ECC LOW"], 
+	"SSD 1000": ["SSD 960GB", "SSD 1024GB", "SSD 1TB"], 
+	"SSD 5XX": ["SSD 480GB", "SSD 512GB"]
+	}
+}
